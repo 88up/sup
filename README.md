@@ -1,2 +1,2 @@
 # sup
-A most basic hello-world app.
+A basic hello-world app.
