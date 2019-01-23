@@ -1,4 +1,4 @@
 # sup
-A basic hello-world app.
-A change is made.
-Another change, this one is made after edits are "added" to Staging Area.
+Basic hello world app.
+Practice 1/23/2019 editing on AWS ec2-user@3.16.163.109
+
